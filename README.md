@@ -135,3 +135,7 @@ For transparency into our release cycle and in striving to maintain backward com
 Code and documentation released under [the MIT license](https://github.com/joni2back/angular-filemanager/blob/master/LICENSE).
 
 
+### TODO
+
+* Add JWT token handling
+* Import user and group selection
